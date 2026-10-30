@@ -36,14 +36,11 @@ I enjoy turning complicated data and infrastructure problems into systems that a
 - **[RelaySwap](https://github.com/tejaswikharade/relay-swap)** — A compact constant-product AMM for studying liquidity and swap mechanics.
 - **[CivicLedger](https://github.com/tejaswikharade/civic-ledger)** — A transparent, one-address-one-vote governance primitive for civic proposals.
 
-<details>
-  <summary><b>A little more context</b></summary>
-  <br />
+### A little more context
 
-  - At Nomura, I work on enterprise data-platform delivery, a Neo4j knowledge graph with MCP integration, and reusable engineering workflows.
-  - Previously, I led full-stack and microservice development at Media.net, including secure APIs, asynchronous Kafka pipelines, and internal productivity tools.
-  - I hold a B.E. in Computer Science from the University of Mumbai and published research on collaborative recommendations for agriculture.
-</details>
+- At Nomura, I work on enterprise data-platform delivery, a Neo4j knowledge graph with MCP integration, and reusable engineering workflows.
+- Previously, I led full-stack and microservice development at Media.net, including secure APIs, asynchronous Kafka pipelines, and internal productivity tools.
+- I hold a B.E. in Computer Science from the University of Mumbai and published research on collaborative recommendations for agriculture.
 
 <div align="center">
   <sub>Open to meaningful engineering conversations · <a href="mailto:tejaswisampat1898@gmail.com">Say hello</a></sub>
