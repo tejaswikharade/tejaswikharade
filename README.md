@@ -26,16 +26,6 @@ I enjoy turning complicated data and infrastructure problems into systems that a
   <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,solidity,aws,docker,kafka,redis,mysql,mongodb,git,githubactions" alt="Java, Spring, Python, JavaScript, TypeScript, React, Solidity, AWS, Docker, Kafka, Redis, MySQL, MongoDB, Git, GitHub Actions" />
 </p>
 
-<a href="https://tejaswikharade.github.io/chain-vault/"><img src="https://img.shields.io/badge/ChainVault-Live_demo_↗-139E78?style=for-the-badge&logo=ethereum&logoColor=white" alt="ChainVault live demo" /></a>
-<a href="https://tejaswikharade.github.io/proof-pass/"><img src="https://img.shields.io/badge/ProofPass-Live_demo_↗-4F46E5?style=for-the-badge&logo=ethereum&logoColor=white" alt="ProofPass live demo" /></a>
-<a href="https://tejaswikharade.github.io/relay-swap/"><img src="https://img.shields.io/badge/RelaySwap-Live_demo_↗-F59E0B?style=for-the-badge&logo=ethereum&logoColor=111827" alt="RelaySwap live demo" /></a>
-<a href="https://tejaswikharade.github.io/civic-ledger/"><img src="https://img.shields.io/badge/CivicLedger-Live_demo_↗-2563EB?style=for-the-badge&logo=ethereum&logoColor=white" alt="CivicLedger live demo" /></a>
-
-- **[ChainVault](https://github.com/tejaswikharade/chain-vault)** — A secure, time-locked ETH vault with controlled release and cancellation flows.
-- **[ProofPass](https://github.com/tejaswikharade/proof-pass)** — An issuer-managed registry for privacy-conscious, verifiable on-chain credentials.
-- **[RelaySwap](https://github.com/tejaswikharade/relay-swap)** — A compact constant-product AMM for studying liquidity and swap mechanics.
-- **[CivicLedger](https://github.com/tejaswikharade/civic-ledger)** — A transparent, one-address-one-vote governance primitive for civic proposals.
-
 ### A little more context
 
 - At Nomura, I work on enterprise data-platform delivery, a Neo4j knowledge graph with MCP integration, and reusable engineering workflows.
