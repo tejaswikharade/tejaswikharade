@@ -28,10 +28,10 @@ I enjoy turning complicated data and infrastructure problems into systems that a
 
 ### Featured projects
 
-<a href="https://github.com/tejaswikharade/chain-vault"><img src="https://img.shields.io/badge/ChainVault-Time--locked_ETH_custody-139E78?style=for-the-badge&logo=ethereum&logoColor=white" alt="ChainVault" /></a>
-<a href="https://github.com/tejaswikharade/proof-pass"><img src="https://img.shields.io/badge/ProofPass-Credential_registry-4F46E5?style=for-the-badge&logo=ethereum&logoColor=white" alt="ProofPass" /></a>
-<a href="https://github.com/tejaswikharade/relay-swap"><img src="https://img.shields.io/badge/RelaySwap-AMM_mechanics-F59E0B?style=for-the-badge&logo=ethereum&logoColor=111827" alt="RelaySwap" /></a>
-<a href="https://github.com/tejaswikharade/civic-ledger"><img src="https://img.shields.io/badge/CivicLedger-On--chain_governance-2563EB?style=for-the-badge&logo=ethereum&logoColor=white" alt="CivicLedger" /></a>
+<a href="https://tejaswikharade.github.io/chain-vault/"><img src="https://img.shields.io/badge/ChainVault-Live_demo_↗-139E78?style=for-the-badge&logo=ethereum&logoColor=white" alt="ChainVault live demo" /></a>
+<a href="https://tejaswikharade.github.io/proof-pass/"><img src="https://img.shields.io/badge/ProofPass-Live_demo_↗-4F46E5?style=for-the-badge&logo=ethereum&logoColor=white" alt="ProofPass live demo" /></a>
+<a href="https://tejaswikharade.github.io/relay-swap/"><img src="https://img.shields.io/badge/RelaySwap-Live_demo_↗-F59E0B?style=for-the-badge&logo=ethereum&logoColor=111827" alt="RelaySwap live demo" /></a>
+<a href="https://tejaswikharade.github.io/civic-ledger/"><img src="https://img.shields.io/badge/CivicLedger-Live_demo_↗-2563EB?style=for-the-badge&logo=ethereum&logoColor=white" alt="CivicLedger live demo" /></a>
 
 <details>
   <summary><b>A little more context</b></summary>
