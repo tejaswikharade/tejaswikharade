@@ -1,45 +1,47 @@
 <div align="center">
 
-# Hi, I'm Tejaswi Kharade 👋
+  <h1>Hey, I'm Tejaswi Kharade <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="wave" /></h1>
+  <p><b>Senior Software Engineer</b> · Building dependable data platforms, backend systems, and developer automation.</p>
 
-**Senior Software Engineer · Data platforms, automation & on-chain engineering**
-
-[Portfolio](https://tejaswikharade.github.io) · [LinkedIn](https://www.linkedin.com/in/tejaswi-kharade/) · [Email](mailto:tejaswisampat1898@gmail.com)
+  <a href="https://tejaswikharade.github.io"><img src="https://img.shields.io/badge/Visit_my_portfolio-17211F?style=for-the-badge&logo=vercel&logoColor=B8F436" alt="Visit portfolio" /></a>
+  <a href="https://www.linkedin.com/in/tejaswi-kharade/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tejaswisampat1898@gmail.com"><img src="https://img.shields.io/badge/Email-2E7D32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tejaswi" /></a>
 
 </div>
 
-I build reliable systems where data, developer tooling, and product experience meet. Currently at **Nomura**, working on enterprise data-platform enhancements, a Neo4j knowledge graph with MCP integration, and reusable engineering automation.
+<br />
 
-### Focus
+```text
+Currently  →  Senior Software Engineer @ Nomura
+Building   →  Data platforms, knowledge graphs, and developer tooling
+Exploring  →  Solidity, protocol design, and on-chain systems
+Based in   →  Mumbai, India
+```
 
-- Designing secure, observable backend systems and developer workflows
-- Exploring Solidity through hands-on protocol, identity, governance, and DeFi primitives
-- Shipping practical tooling with a product-engineering mindset
+I enjoy turning complicated data and infrastructure problems into systems that are reliable, inspectable, and pleasant for other engineers to use. My background spans large-scale Java/Spring services, Python automation, Vue/React interfaces, Kafka, Redis, SQL/NoSQL, and cloud delivery.
 
-### On-chain engineering lab
-
-| Project | What it explores |
-| --- | --- |
-| [ChainVault](https://github.com/tejaswikharade/chain-vault) | Time-locked ETH custody |
-| [ProofPass](https://github.com/tejaswikharade/proof-pass) | Verifiable credential registry |
-| [RelaySwap](https://github.com/tejaswikharade/relay-swap) | Constant-product AMM mechanics |
-| [CivicLedger](https://github.com/tejaswikharade/civic-ledger) | Transparent on-chain governance |
-
-### Toolbox
+### Tech I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,solidity,ethereum,aws,docker,kafka,redis,mysql,mongodb,git,githubactions" alt="Java, Spring, Python, JavaScript, TypeScript, React, Solidity, Ethereum, AWS, Docker, Kafka, Redis, MySQL, MongoDB, Git, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,solidity,aws,docker,kafka,redis,mysql,mongodb,git,githubactions" alt="Java, Spring, Python, JavaScript, TypeScript, React, Solidity, AWS, Docker, Kafka, Redis, MySQL, MongoDB, Git, GitHub Actions" />
 </p>
 
+### Featured projects
+
+<a href="https://github.com/tejaswikharade/chain-vault"><img src="https://img.shields.io/badge/ChainVault-Time--locked_ETH_custody-139E78?style=for-the-badge&logo=ethereum&logoColor=white" alt="ChainVault" /></a>
+<a href="https://github.com/tejaswikharade/proof-pass"><img src="https://img.shields.io/badge/ProofPass-Credential_registry-4F46E5?style=for-the-badge&logo=ethereum&logoColor=white" alt="ProofPass" /></a>
+<a href="https://github.com/tejaswikharade/relay-swap"><img src="https://img.shields.io/badge/RelaySwap-AMM_mechanics-F59E0B?style=for-the-badge&logo=ethereum&logoColor=111827" alt="RelaySwap" /></a>
+<a href="https://github.com/tejaswikharade/civic-ledger"><img src="https://img.shields.io/badge/CivicLedger-On--chain_governance-2563EB?style=for-the-badge&logo=ethereum&logoColor=white" alt="CivicLedger" /></a>
+
 <details>
-<summary>Background</summary>
+  <summary><b>A little more context</b></summary>
+  <br />
 
-- Senior Software Engineer at Nomura; previously built high-scale services and internal tools at Media.net.
-- Experience across Java/Spring Boot, Python, Vue/React, Kafka, Redis, SQL/NoSQL, Docker, CI/CD, and cloud.
-- Published research on collaborative recommendation systems for agriculture; B.E. in Computer Science, University of Mumbai.
-
+  - At Nomura, I work on enterprise data-platform delivery, a Neo4j knowledge graph with MCP integration, and reusable engineering workflows.
+  - Previously, I led full-stack and microservice development at Media.net, including secure APIs, asynchronous Kafka pipelines, and internal productivity tools.
+  - I hold a B.E. in Computer Science from the University of Mumbai and published research on collaborative recommendations for agriculture.
 </details>
 
 <div align="center">
-  <i>Building systems that are useful, inspectable, and built to last.</i>
+  <sub>Open to meaningful engineering conversations · <a href="mailto:tejaswisampat1898@gmail.com">Say hello</a></sub>
 </div>
