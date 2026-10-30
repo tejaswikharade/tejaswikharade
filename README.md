@@ -33,6 +33,11 @@ I enjoy turning complicated data and infrastructure problems into systems that a
 <a href="https://tejaswikharade.github.io/relay-swap/"><img src="https://img.shields.io/badge/RelaySwap-Live_demo_↗-F59E0B?style=for-the-badge&logo=ethereum&logoColor=111827" alt="RelaySwap live demo" /></a>
 <a href="https://tejaswikharade.github.io/civic-ledger/"><img src="https://img.shields.io/badge/CivicLedger-Live_demo_↗-2563EB?style=for-the-badge&logo=ethereum&logoColor=white" alt="CivicLedger live demo" /></a>
 
+- **[ChainVault](https://github.com/tejaswikharade/chain-vault)** — A secure, time-locked ETH vault with controlled release and cancellation flows.
+- **[ProofPass](https://github.com/tejaswikharade/proof-pass)** — An issuer-managed registry for privacy-conscious, verifiable on-chain credentials.
+- **[RelaySwap](https://github.com/tejaswikharade/relay-swap)** — A compact constant-product AMM for studying liquidity and swap mechanics.
+- **[CivicLedger](https://github.com/tejaswikharade/civic-ledger)** — A transparent, one-address-one-vote governance primitive for civic proposals.
+
 <details>
   <summary><b>A little more context</b></summary>
   <br />
